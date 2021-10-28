@@ -17,6 +17,7 @@ This is the code repository for our paper "Addressing catastrophic forgetting fo
 ## Code
 
 **train_model.py**: Train a base model on the original domain
+
 **train_model_ft_bn.py**: Fine-tune batch normalization layers only on a second domain
 **train_model_ft_bn_freeze.py**: Fine-tune batch normalization layers only on a second domain while freezing batch normalization statistics from the original domain
 **train_model_ft.py**: Fine-tune all layers on a second domain 
