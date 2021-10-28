@@ -44,4 +44,4 @@ This code is under active development, and you may run into errors or want addit
 
 ## Acknowledgements
 
-Code for fisher matrix calculation adapted from 
+Code for fisher matrix calculation adapted from https://github.com/tudor-berariu/fisher-information-matrix/blob/master/fim.py
